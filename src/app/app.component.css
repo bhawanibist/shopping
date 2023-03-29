@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: 'heading';
+    src: url('../assets/newspaper.ttf')
+}
+@font-face{
+    font-family: 'heading2';
+    src: url('..//assets/Montserrat-Light.ttf');
+}

@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  margin-top: 5px;
+  color: #47082d;
+}
+
+p,
+h2,
+h3 {
+  color: beige;
+}
+
+.menu-body {
+  background: url(img/mbody.jpg);
+  width: 100%;
+  height: 600px;
+  border: 2px solid red;
+  background-position: center;
+}
