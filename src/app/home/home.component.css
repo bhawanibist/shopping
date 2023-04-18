@@ -384,3 +384,39 @@ h3,
   right: 10px;
   font-size: smaller;
 }
+.last-box{
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  height: 70px;
+  position: absolute;
+  top: 347%;
+  left: 23%;
+  background-color: #fff;
+  border-radius: 0% 7% 0% 7%;
+}
+.left p{
+  font-size: 18px;
+  color: #390a38;
+  position: absolute;
+  top: 35px;
+  left: 12px;
+  
+}
+.left h4{
+  position: absolute;
+  left: 12px;
+  top: 5px;
+  font-weight: 700;
+  color: #390a38;
+}
+.right{
+  position: absolute;
+  right: 110px;
+  top: 20px;
+}
+.btn{
+  position: absolute;
+  left: 80%;
+  top: 17px;
+}
